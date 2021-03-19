@@ -1,0 +1,382 @@
+div{
+
+
+}
+.papa{
+
+position: absolute;
+top: 90px;
+left: 250px;
+height:1100px;
+width:700px;
+background:red;
+color: black;
+
+}
+
+.hijo1{
+position: absolute;
+top: 10px;
+left: 200px;
+height:70px;
+width:300px;
+color: yellow;
+font-size: 100px;
+text-align:center;
+align-content:center;
+font-family:letra;
+}
+@font-face{
+font-family:letra;
+src:url(letra.ttf);
+}
+
+.hijo2{
+position: absolute;
+top: 180px;
+left: 200px;
+height:70px;
+width:300px;
+color: yellow;
+font-size: 30px;
+text-align:center;
+align-content:center;
+font-family:letra1;
+}
+@font-face{
+font-family:letra1;
+src:url(letra1.TTF);
+}
+.hijo3{
+position: absolute;
+top: 210px;
+left: 200px;
+height:70px;
+width:300px;
+color:white;
+font-size: 60px;
+text-align:center;
+align-content:center;
+font-family:letra1;
+}
+
+
+.hijo4{
+position: absolute;
+top: 250px;
+left: 200px;
+height:70px;
+width:300px;
+color:white;
+font-size: 100px;
+text-align:center;
+align-content:center;
+font-family:letra1;
+}
+
+
+.hijo5{
+position: absolute;
+top: 340px;
+left: 200px;
+height:70px;
+width:300px;
+color:yellow;
+font-size: 30px;
+text-align:center;
+align-content:center;
+font-family:letra1;
+}
+.foto1{
+position: absolute;
+top: 460px;
+left: 140px;
+width: 400px;
+height:400px;
+background: url(tambor.png);
+background-size: cover;
+z-index:3; 
+
+}
+.foto2{
+position: absolute;
+top: 380px;
+left: 300px;
+width: 200px;
+height:200px;
+background: url(baquetas.png)no-repeat;
+background-size: contain;
+z-index:7; 
+transform: rotate(220deg);
+}
+.foto3{
+position: absolute;
+top: 330px;
+left: 140px;
+width: 600px;
+height:600px;
+background: url(guitarra.png)no-repeat;
+background-size: contain;
+z-index:5;
+transform: rotate(-100deg);
+}
+
+.foto4{
+position: absolute;
+top: 460px;
+left: 600px;
+width: 100px;
+height:100px;
+background: url(argen.jpg);
+background-size: cover;
+border-radius: 200px;
+}
+.foto5{
+position: absolute;
+top: 550px;
+left: 600px;
+width: 100px;
+height:100px;
+background: url(chil.jpg);
+background-size: cover;
+border-radius: 200px;
+
+}
+.foto6{
+position: absolute;
+top: 850px;
+left: 600px;
+width: 100px;
+height:100px;
+background: url(uru.png);
+background-size: cover;
+border-radius: 200px;
+
+}
+.foto7{
+position: absolute;
+top: 640px;
+left: 600px;
+width: 100px;
+height:100px;
+background: url(para.jpg);
+background-size: cover;
+border-radius: 200px;
+
+}
+.foto8{
+position: absolute;
+top: 750px;
+left: 600px;
+width: 100px;
+height:100px;
+background: url(per.jpg);
+background-size: cover;
+border-radius: 200px;
+
+}
+.texto1{
+position: absolute;
+top: 480px;
+left: 410px;
+height:270px;
+width:300px;
+color: white;
+font-size: 20px;
+text-align:center;
+align-content:center;
+}
+.texto2{
+position: absolute;
+top: 570px;
+left: 410px;
+height:270px;
+width:300px;
+color: white;
+font-size: 20px;
+text-align:center;
+align-content:center;
+}
+.texto3{
+position: absolute;
+top: 870px;
+left: 410px;
+height:270px;
+width:300px;
+color: white;
+font-size: 20px;
+text-align:center;
+align-content:center;
+}
+.texto4{
+position: absolute;
+top: 660px;
+left: 410px;
+height:270px;
+width:300px;
+color: white;
+font-size: 20px;
+text-align:center;
+align-content:center;
+}
+.texto5{
+position: absolute;
+top: 770px;
+left: 410px;
+height:270px;
+width:300px;
+color: white;
+font-size: 20px;
+text-align:center;
+align-content:center;
+}
+.hijo6{
+position: absolute;
+top: 620px;
+left: -30px;
+height:270px;
+width:300px;
+color: yellow;
+font-size: 30px;
+text-align:center;
+align-content:center;
+font-family:letra1;
+}
+.hijo7{
+position: absolute;
+top: 650px;
+left: 60px;
+height:40px;
+width:120px;
+background: yellow;
+color: black;
+font-size: 30px;
+text-align:center;
+align-content:center;
+font-family:letra1;
+}
+.hijo8{
+position: absolute;
+top: 700px;
+left: -30px;
+height:270px;
+width:300px;
+color: yellow;
+font-size: 30px;
+text-align:center;
+align-content:center;
+font-family:letra1;
+}
+.hijo9{
+position: absolute;
+top: 720px;
+left: -30px;
+height:270px;
+width:300px;
+color: yellow;
+font-size: 30px;
+text-align:center;
+align-content:center;
+font-family:letra1;
+}
+.hijo10{
+position: absolute;
+top: 740px;
+left: -30px;
+height:270px;
+width:300px;
+color: yellow;
+font-size: 30px;
+text-align:center;
+align-content:center;
+font-family:letra1;
+}
+.hijo11{
+position: absolute;
+top: 770px;
+left: -30px;
+height:270px;
+width:300px;
+color: yellow;
+font-size: 40px;
+text-align:center;
+align-content:center;
+font-family:letra;
+}
+.hijo12{
+position: absolute;
+top: 850px;
+left: 160px;
+height:270px;
+width:300px;
+color: blue;
+font-size: 70px;
+text-align:center;
+align-content:center;
+font-family:hola2;
+z-index: 9;
+}
+@font-face{
+font-family:hola2;
+src:url(hola2.ttf);
+}
+.hijo13{
+position: absolute;
+top: 830px;
+left: 140px;
+height:270px;
+width:300px;
+color: yellow;
+font-size: 20px;
+text-align:center;
+align-content:center;
+font-family:letra1;
+z-index: 9;
+}
+.hijo14{
+position: absolute;
+top: 830px;
+left: 250px;
+height:270px;
+width:300px;
+color: white;
+font-size: 20px;
+text-align:center;
+align-content:center;
+font-family:letra1;
+z-index: 9;
+}
+.hijo15{
+position: absolute;
+top: 940px;
+left: 230px;
+height:200px;
+width:300px;
+color: white;
+font-size: 40px;
+text-align:center;
+align-content:center;
+font-family:letra1;
+}
+.hijo16{
+
+position: absolute;
+top: 0px;
+left: 160px;
+height:20px;
+width:400px;
+background:yellow;
+color: black;
+
+}
+.hijo17{
+
+position: absolute;
+top: 1080px;
+left: 160px;
+height:20px;
+width:400px;
+background:yellow;
+color: black;
+
+}
